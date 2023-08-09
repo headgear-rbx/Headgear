@@ -1,0 +1,5 @@
+D:\teste\exploids\laucher\Headgear\Headgear\obj\Debug\net7.0-windows\Headgear.csproj.AssemblyReference.cache
+D:\teste\exploids\laucher\Headgear\Headgear\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\teste\exploids\laucher\Headgear\Headgear\obj\Debug\net7.0-windows\App.g.cs
+D:\teste\exploids\laucher\Headgear\Headgear\obj\Debug\net7.0-windows\Headgear_MarkupCompile.cache
+D:\teste\exploids\laucher\Headgear\Headgear\obj\Debug\net7.0-windows\Headgear_MarkupCompile.lref
